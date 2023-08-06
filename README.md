@@ -18,7 +18,7 @@ You can view the live page of the project [Spotify-Landing-Page](https://gaya3ra
 - JavaScript
 
 ## Installation
-1. Clone the repository: [git clone](https://github.com/your-username/spotify-landing-page.git)
+1. Clone the repository: [git clone](https://github.com/Gaya3Ramesh/Spotify-Landing-Page.git)
 2. Open `index.html` in your web browser to view the project locally.
 
 ## Contributions
